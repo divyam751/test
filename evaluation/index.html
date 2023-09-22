@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/normalize.css" />
+    <link rel="stylesheet" href="styles/skeleton.css" />
+    <link rel="stylesheet" href="styles/style.css" />
+    <title>Masai job Portal</title>
+  </head>
+
+  <body>
+    <nav>
+      <div>
+        <a href="index.html" id="home">
+          <img style="height: 150px" src="./server-files/Masai Job.png" />
+        </a>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+        <div class="column">
+          <h1>Masai job Portal 📈</h1>
+          <i>Masai job Portal</i>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="columns four sidebar-one" id="sidebar-one">
+          <h4>Add Jobs</h4>
+          <input
+            type="text"
+            id="job-role"
+            class="u-full-width"
+            placeholder="role"
+          />
+          <input
+            type="text"
+            id="job-image"
+            class="u-full-width"
+            placeholder="image"
+          />
+          <input
+            type="text"
+            id="job-companyName"
+            class="u-full-width"
+            placeholder="companyName"
+          />
+          <input
+            type="number"
+            id="job-experienceRequired"
+            class="u-full-width"
+            placeholder="experienceRequired"
+          />
+          <input
+            type="text"
+            id="job-employmentType"
+            class="u-full-width"
+            placeholder="employmentType"
+          />
+          <input
+            type="number"
+            id="job-packageCTC"
+            class="u-full-width"
+            placeholder="packageCTC"
+          />
+          <input
+            type="text"
+            id="job-keySkills"
+            class="u-full-width"
+            placeholder="keySkills"
+          />
+          <button id="add-job" class="u-full-width button button-primary">
+            Add Jobs
+          </button>
+          <hr />
+
+          <h4>update all fields of Jobs</h4>
+          <input
+            type="text"
+            id="update-job-id"
+            class="u-full-width"
+            placeholder="ID"
+          />
+          <input
+            type="text"
+            id="update-job-role"
+            class="u-full-width"
+            placeholder="role"
+          />
+          <input
+            type="text"
+            id="update-job-image"
+            class="u-full-width"
+            placeholder="image"
+          />
+          <input
+            type="text"
+            id="update-job-companyName"
+            class="u-full-width"
+            placeholder="companyName"
+          />
+          <input
+            type="number"
+            id="update-job-experienceRequired"
+            class="u-full-width"
+            placeholder="experienceRequired"
+          />
+          <input
+            type="text"
+            id="update-job-employmentType"
+            class="u-full-width"
+            placeholder="employmentType"
+          />
+          <input
+            type="number"
+            id="update-job-packageCTC"
+            class="u-full-width"
+            placeholder="packageCTC"
+          />
+          <input
+            type="text"
+            id="update-job-keySkills"
+            class="u-full-width"
+            placeholder="keySkills"
+          />
+          <button id="update-job" class="u-full-width button button-primary">
+            Update all fields
+          </button>
+          <hr />
+
+          <h4>update only packageCTC</h4>
+          <input
+            type="text"
+            id="update-package-job-id"
+            class="u-full-width"
+            placeholder="ID"
+          />
+          <input
+            type="number"
+            id="update-package-job-package"
+            class="u-full-width"
+            placeholder="packageCTC"
+          />
+          <button
+            id="update-package-job"
+            class="u-full-width button button-primary"
+          >
+            Update job package CTC
+          </button>
+          <hr />
+
+          <h4>Sort Based On Package</h4>
+          <button
+            id="sort-low-to-high"
+            class="u-full-width button button-primary"
+          >
+            Sort Low To High
+          </button>
+          <button
+            id="sort-high-to-low"
+            class="u-full-width button button-primary"
+          >
+            Sort High To Low
+          </button>
+          <hr />
+
+          <h4>Filter Based On Company Name</h4>
+          <button id="filter-Google" class="u-full-width button button-primary">
+            Google
+          </button>
+          <button
+            id="filter-Microsoft"
+            class="u-full-width button button-primary"
+          >
+            Microsoft
+          </button>
+          <button
+            id="filter-capgemini"
+            class="u-full-width button button-primary"
+          >
+            capgemini
+          </button>
+        </div>
+
+        <div class="columns eight main">
+          <div class="search-jobs-wrapper" id="search-jobs-wrapper">
+            <select id="search-by-select">
+              <option value="">Search By</option>
+              <option value="role">role</option>
+              <option value="companyName">company name</option>
+            </select>
+            <input
+              type="text"
+              id="search-by-input"
+              placeholder="Enter Role/company name here"
+            />
+            <button
+              id="search-by-button"
+              style="background-color: #33c3f0; color: white; border: none"
+            >
+              Search
+            </button>
+          </div>
+          <div class="data-list-wrapper" id="data-list-wrapper">
+            <!-- append card-list that includes card here -->
+          </div>
+          <div class="pagination-wrapper" id="pagination-wrapper">
+            <!-- append the pagination button here -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./scripts/index.js" type="module"></script>
+  </body>
+</html>

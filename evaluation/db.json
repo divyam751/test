@@ -1,0 +1,788 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "role": "Mobile App Developer",
+      "companyName": "space x",
+      "experienceRequired": 4,
+      "location": "Los Angeles",
+      "packageCTC": 14,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "React Native",
+        "iOS",
+        "Android",
+        "Cross-Platform"
+      ],
+      "image": "./server-files/images/spacex.png"
+    },
+    {
+      "id": 2,
+      "role": "Back-End Developer",
+      "companyName": "CryptoTech Solutions",
+      "experienceRequired": 5,
+      "location": "Mumbai",
+      "packageCTC": 13,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST API"
+      ],
+      "image": "./server-files/images/CryptoTechSolutions.jpg"
+    },
+    {
+      "id": 3,
+      "role": "DevOps Engineer",
+      "companyName": "DataInsights",
+      "experienceRequired": 4,
+      "location": "Vancouver",
+      "packageCTC": 12,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Infrastructure as Code"
+      ],
+      "image": "./server-files/images/DataInsights.jpg"
+    },
+    {
+      "id": 4,
+      "role": "QA Tester",
+      "companyName": "tesla",
+      "experienceRequired": 3,
+      "location": "Paris",
+      "packageCTC": 10,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Test Planning"
+      ],
+      "image": "./server-files/images/tesla.png"
+    },
+    {
+      "id": 5,
+      "role": "Full-Stack Developer",
+      "companyName": "github",
+      "experienceRequired": 5,
+      "location": "Toronto",
+      "packageCTC": 15,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "React",
+        "Node.js",
+        "SQL",
+        "RESTful APIs"
+      ],
+      "image": "./server-files/images/github.png"
+    },
+    {
+      "id": 6,
+      "role": "Machine Learning Engineer",
+      "companyName": "InnovateTech Solutions",
+      "experienceRequired": 4,
+      "location": "Beijing",
+      "packageCTC": 17,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "TensorFlow",
+        "NLP",
+        "Data Mining"
+      ],
+      "image": "./server-files/images/InnovateTechSolutions.png"
+    },
+    {
+      "id": 7,
+      "role": "Security Tester",
+      "companyName": "Microsoft",
+      "experienceRequired": 3,
+      "location": "Zurich",
+      "packageCTC": 13,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Penetration Testing",
+        "Vulnerability Analysis",
+        "Network Security"
+      ],
+      "image": "./server-files/images/Microsoft.png"
+    },
+    {
+      "id": 8,
+      "role": "Blockchain Developer",
+      "companyName": "Google",
+      "experienceRequired": 2,
+      "location": "Hong Kong",
+      "packageCTC": 11,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Smart Contracts",
+        "Decentralized Applications",
+        "Solidity"
+      ],
+      "image": "./server-files/images/Google.png"
+    },
+    {
+      "id": 9,
+      "role": "Software Developer",
+      "companyName": "TechCo Solutions",
+      "experienceRequired": 2,
+      "location": "Bangalore",
+      "packageCTC": 10,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Java",
+        "Spring",
+        "SQL",
+        "REST API"
+      ],
+      "image": "./server-files/images/TechCoSolutions.png"
+    },
+    {
+      "id": 10,
+      "role": "Front-End Developer",
+      "companyName": "WebDev Corp",
+      "experienceRequired": 3,
+      "location": "San Francisco",
+      "packageCTC": 12,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "image": "./server-files/images/WebDevCorp.png"
+    },
+    {
+      "id": 11,
+      "role": "Mobile App Developer",
+      "companyName": "AppTech Innovations",
+      "experienceRequired": 4,
+      "location": "New York",
+      "packageCTC": 15,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "iOS",
+        "Android",
+        "Swift",
+        "Kotlin"
+      ],
+      "image": "./server-files/images/AppTechInnovations.jpg"
+    },
+    {
+      "id": 12,
+      "role": "Back-End Developer",
+      "companyName": "DataSys Solutions",
+      "experienceRequired": 5,
+      "location": "London",
+      "packageCTC": 14,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST API"
+      ],
+      "image": "./server-files/images/DataSysSolutions.png"
+    },
+    {
+      "id": 13,
+      "role": "DevOps Engineer",
+      "companyName": "CloudOps Tech",
+      "experienceRequired": 3,
+      "location": "Toronto",
+      "packageCTC": 13,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS"
+      ],
+      "image": "./server-files/images/CloudOpsTech.png"
+    },
+    {
+      "id": 14,
+      "role": "QA Tester",
+      "companyName": "TestMaster Solutions",
+      "experienceRequired": 2,
+      "location": "Berlin",
+      "packageCTC": 9,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Test Design"
+      ],
+      "image": "./server-files/images/TestMasterSolutions.jpg"
+    },
+    {
+      "id": 15,
+      "role": "Full-Stack Developer",
+      "companyName": "CodeCraft Studios",
+      "experienceRequired": 4,
+      "location": "Sydney",
+      "packageCTC": 10.5,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST API"
+      ],
+      "image": "./server-files/images/CodeCraftStudios.jpg"
+    },
+    {
+      "id": 16,
+      "role": "Machine Learning Engineer",
+      "companyName": "AI Innovators",
+      "experienceRequired": 3,
+      "location": "Tokyo",
+      "packageCTC": 9,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "TensorFlow",
+        "Data Science",
+        "ML Algorithms"
+      ],
+      "image": "./server-files/images/AIInnovators.jpg"
+    },
+    {
+      "id": 17,
+      "role": "Security Tester",
+      "companyName": "SecureTech Labs",
+      "experienceRequired": 4,
+      "location": "Singapore",
+      "packageCTC": 6,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Ethical Hacking",
+        "Penetration Testing",
+        "Security Auditing"
+      ],
+      "image": "./server-files/images/SecureTechLabs.jpg"
+    },
+    {
+      "id": 18,
+      "role": "Blockchain Developer",
+      "companyName": "CryptoTech Solutions",
+      "experienceRequired": 2,
+      "location": "Seoul",
+      "packageCTC": 7,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Solidity",
+        "Smart Contracts",
+        "Distributed Ledger"
+      ],
+      "image": "./server-files/images/CryptoTechSolutions.jpg"
+    },
+    {
+      "id": 19,
+      "role": "Software Developer",
+      "companyName": "InnovateTech Solutions",
+      "experienceRequired": 3,
+      "location": "Austin",
+      "packageCTC": 8,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "Java",
+        "Databases",
+        "APIs"
+      ],
+      "image": "./server-files/images/InnovateTechSolutions.png"
+    },
+    {
+      "id": 20,
+      "role": "Front-End Developer",
+      "companyName": "WebWizards",
+      "experienceRequired": 2,
+      "location": "Seattle",
+      "packageCTC": 9,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js"
+      ],
+      "image": "./server-files/images/WebWizards.jpg"
+    },
+    {
+      "id": 21,
+      "role": "Mobile App Developer",
+      "companyName": "Appify Solutions",
+      "experienceRequired": 4,
+      "location": "Los Angeles",
+      "packageCTC": 14,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "React Native",
+        "iOS",
+        "Android",
+        "UI/UX"
+      ],
+      "image": "./server-files/images/AppifySolutions.png"
+    },
+    {
+      "id": 22,
+      "role": "Back-End Developer",
+      "companyName": "DataInsights",
+      "experienceRequired": 5,
+      "location": "Mumbai",
+      "packageCTC": 13,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "SQL"
+      ],
+      "image": "./server-files/images/DataInsights.jpg"
+    },
+    {
+      "id": 23,
+      "role": "DevOps Engineer",
+      "companyName": "CloudOps Innovations",
+      "experienceRequired": 4,
+      "location": "Vancouver",
+      "packageCTC": 4,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Infrastructure as Code"
+      ],
+      "image": "./server-files/images/CloudOpsInnovations.png"
+    },
+    {
+      "id": 24,
+      "role": "QA Tester",
+      "companyName": "TestTech Solutions",
+      "experienceRequired": 3,
+      "location": "Paris",
+      "packageCTC": 2,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Automation Testing",
+        "Selenium",
+        "Test Frameworks"
+      ],
+      "image": "./server-files/images/TestTechSolutions.jpg"
+    },
+    {
+      "id": 25,
+      "role": "Full-Stack Developer",
+      "companyName": "AgileSoft",
+      "experienceRequired": 5,
+      "location": "Toronto",
+      "packageCTC": 5,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Angular",
+        "Node.js",
+        "MongoDB",
+        "RESTful APIs"
+      ],
+      "image": "./server-files/images/AgileSoft.jpg"
+    },
+    {
+      "id": 26,
+      "role": "Machine Learning Engineer",
+      "companyName": "Google",
+      "experienceRequired": 4,
+      "location": "Pune",
+      "packageCTC": 17,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "TensorFlow",
+        "NLP",
+        "Data Mining"
+      ],
+      "image": "./server-files/images/Google.png"
+    },
+    {
+      "id": 27,
+      "role": "Security Tester",
+      "companyName": "Microsoft",
+      "experienceRequired": 3,
+      "location": "Mumbai",
+      "packageCTC": 13,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Network Security"
+      ],
+      "image": "./server-files/images/Microsoft.png"
+    },
+    {
+      "id": 28,
+      "role": "Blockchain Developer",
+      "companyName": "capgemini",
+      "experienceRequired": 2,
+      "location": "Channai",
+      "packageCTC": 11,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Ethereum",
+        "Smart Contracts",
+        "DApp Development"
+      ],
+      "image": "./server-files/images/capgemini.png"
+    },
+    {
+      "id": 29,
+      "role": "Software Developer",
+      "companyName": "infosys",
+      "experienceRequired": 3,
+      "location": "Pune",
+      "packageCTC": 6,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "JavaScript",
+        "Databases",
+        "REST API"
+      ],
+      "image": "./server-files/images/infosys.png"
+    },
+    {
+      "id": 30,
+      "role": "Front-End Developer",
+      "companyName": "amdocs",
+      "experienceRequired": 2,
+      "location": "Tokyo",
+      "packageCTC": 9,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "HTML",
+        "CSS",
+        "React",
+        "Responsive Design"
+      ],
+      "image": "./server-files/images/amdocs.jpg"
+    },
+    {
+      "id": 31,
+      "role": "Mobile App Developer",
+      "companyName": "tesla",
+      "experienceRequired": 4,
+      "location": "San Francisco",
+      "packageCTC": 4,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Flutter",
+        "iOS",
+        "Android",
+        "API Integration"
+      ],
+      "image": "./server-files/images/tesla.png"
+    },
+    {
+      "id": 32,
+      "role": "Back-End Developer",
+      "companyName": "adobe",
+      "experienceRequired": 5,
+      "location": "Toronto",
+      "packageCTC": 13,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "RESTful APIs"
+      ],
+      "image": "./server-files/images/adobe.png"
+    },
+    {
+      "id": 33,
+      "role": "DevOps Engineer",
+      "companyName": "space x",
+      "experienceRequired": 4,
+      "location": "Seattle",
+      "packageCTC": 6.9,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Infrastructure Automation"
+      ],
+      "image": "./server-files/images/spacex.png"
+    },
+    {
+      "id": 34,
+      "role": "QA Tester",
+      "companyName": "github",
+      "experienceRequired": 3,
+      "location": "London",
+      "packageCTC": 10,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Test Planning"
+      ],
+      "image": "./server-files/images/github.png"
+    },
+    {
+      "id": 35,
+      "role": "Full-Stack Developer",
+      "companyName": "Google",
+      "experienceRequired": 5,
+      "location": "New York",
+      "packageCTC": 7.5,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "React",
+        "Node.js",
+        "SQL",
+        "RESTful APIs"
+      ],
+      "image": "./server-files/images/Google.png"
+    },
+    {
+      "id": 36,
+      "role": "Machine Learning Engineer",
+      "companyName": "capgemini",
+      "experienceRequired": 4,
+      "location": "Paris",
+      "packageCTC": 17,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "TensorFlow",
+        "Computer Vision",
+        "Machine Learning Algorithms"
+      ],
+      "image": "./server-files/images/capgemini.png"
+    },
+    {
+      "id": 37,
+      "role": "Security Tester",
+      "companyName": "infosys",
+      "experienceRequired": 3,
+      "location": "Sydney",
+      "packageCTC": 10,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Penetration Testing",
+        "Vulnerability Analysis",
+        "Security Assessment"
+      ],
+      "image": "./server-files/images/infosys.png"
+    },
+    {
+      "id": 38,
+      "role": "Blockchain Developer",
+      "companyName": "adobe",
+      "experienceRequired": 2,
+      "location": "Singapore",
+      "packageCTC": 11,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Smart Contracts",
+        "Decentralized Applications",
+        "Solidity"
+      ],
+      "image": "./server-files/images/adobe.png"
+    },
+    {
+      "id": 39,
+      "role": "Software Developer",
+      "companyName": "amdocs",
+      "experienceRequired": 3,
+      "location": "Bangalore",
+      "packageCTC": 10,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Java",
+        "Spring",
+        "REST API",
+        "Database"
+      ],
+      "image": "./server-files/images/amdocs.jpg"
+    },
+    {
+      "id": 40,
+      "role": "Front-End Developer",
+      "companyName": "WebWizards",
+      "experienceRequired": 2,
+      "location": "San Francisco",
+      "packageCTC": 9,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js"
+      ],
+      "image": "./server-files/images/WebWizards.jpg"
+    },
+    {
+      "id": 41,
+      "role": "Mobile App Developer",
+      "companyName": "CloudOps Innovations",
+      "experienceRequired": 4,
+      "location": "New York",
+      "packageCTC": 13,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "React Native",
+        "iOS",
+        "Android",
+        "UI/UX"
+      ],
+      "image": "./server-files/images/CloudOpsInnovations.png"
+    },
+    {
+      "id": 42,
+      "role": "Back-End Developer",
+      "companyName": "Microsoft",
+      "experienceRequired": 5,
+      "location": "London",
+      "packageCTC": 12,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "API Development"
+      ],
+      "image": "./server-files/images/Microsoft.png"
+    },
+    {
+      "id": 43,
+      "role": "DevOps Engineer",
+      "companyName": "infosys",
+      "experienceRequired": 3,
+      "location": "Toronto",
+      "packageCTC": 11,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "Infrastructure Automation"
+      ],
+      "image": "./server-files/images/infosys.png"
+    },
+    {
+      "id": 44,
+      "role": "QA Tester",
+      "companyName": "capgemini",
+      "experienceRequired": 2,
+      "location": "Berlin",
+      "packageCTC": 8,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Bug Tracking"
+      ],
+      "image": "./server-files/images/capgemini.png"
+    },
+    {
+      "id": 45,
+      "role": "Full-Stack Developer",
+      "companyName": "capgemini",
+      "experienceRequired": 4,
+      "location": "Sydney",
+      "packageCTC": 14,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "React",
+        "Node.js",
+        "SQL",
+        "RESTful APIs"
+      ],
+      "image": "./server-files/images/capgemini.png"
+    },
+    {
+      "id": 46,
+      "role": "Machine Learning Engineer",
+      "companyName": "SecureTech Labs",
+      "experienceRequired": 3,
+      "location": "Tokyo",
+      "packageCTC": 15,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "TensorFlow",
+        "Natural Language Processing"
+      ],
+      "image": "./server-files/images/SecureTechLabs.jpg"
+    },
+    {
+      "id": 47,
+      "role": "Security Tester",
+      "companyName": "capgemini",
+      "experienceRequired": 4,
+      "location": "Singapore",
+      "packageCTC": 12,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Penetration Testing",
+        "Vulnerability Assessment",
+        "Security Auditing"
+      ],
+      "image": "./server-files/images/capgemini.png"
+    },
+    {
+      "id": 48,
+      "role": "Blockchain Developer",
+      "companyName": "capgemini",
+      "experienceRequired": 2,
+      "location": "Seoul",
+      "packageCTC": 10,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Ethereum",
+        "Smart Contracts",
+        "Decentralized Applications"
+      ],
+      "image": "./server-files/images/capgemini.png"
+    },
+    {
+      "id": 49,
+      "role": "Software Developer",
+      "companyName": "AgileSoft",
+      "experienceRequired": 3,
+      "location": "Austin",
+      "packageCTC": 11,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "Python",
+        "Java",
+        "Database",
+        "REST API"
+      ],
+      "image": "./server-files/images/AgileSoft.jpg"
+    },
+    {
+      "id": 50,
+      "role": "Front-End Developer",
+      "companyName": "WebDev Corp",
+      "experienceRequired": 2,
+      "location": "Seattle",
+      "packageCTC": 9,
+      "employmentType": "Full Time, Permanent",
+      "keySkills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "image": "./server-files/images/WebDevCorp.png"
+    }
+  ]
+}
